@@ -26,9 +26,13 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,postgres,linux,docker,sqlite,react,html,css,tailwind&perline=7" alt="My Skills" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,html,css" height="50" alt="languages" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind" height="50" alt="frameworks" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,linux" height="50" alt="infra" />
+</div>
 
 ---
 
