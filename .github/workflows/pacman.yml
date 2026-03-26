@@ -21,9 +21,11 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # These two lines below are CRITICAL
           svg_out_path: dist/pacman-contribution-graph.svg
           svg_out_path_dark: dist/pacman-contribution-graph-dark.svg
+          # Add this line below to slow it down (increase the number)
+          # 40s is twice as slow as the default 20s
+          svg_out_duration: 40s
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
