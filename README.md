@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sel-hasn/sel-hasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi there 👋, I'm Salah-Eddine El Hasnaoui</h1>
+<h3>1337 / 42 Network Student | Full-Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://badge.mediaplus.ma/darkblue/sel-hasn">
+    <img src="https://badge.mediaplus.ma/darkblue/sel-hasn" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+🎓 Student at 1337 / 42 Network  
+📍 Agadir, Morocco  
+💻 Full-Stack Developer focused on Backend & Systems Programming  
+
+<p align="center">
+  🌐 <a href="https://salahdiouane.vercel.app/">Portfolio</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/salah-eddin-el-hasnaoui-b50162336/">LinkedIn</a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,postgres,linux,docker,sqlite,react,css,tailwind&perline=7" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sel-hasn&theme=dark" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sel-hasn&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" />
+
+---
+
+### 🕹️ GitHub Journey (Pacman)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+*Always learning. Always building.*
+
+---
+
+</div>
