@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://badge.mediaplus.ma/darkblue/sel-hasn">
-    <img src="https://badge.mediaplus.ma/darkblue/sel-hasn" />
+    <img src="https://badge.mediaplus.ma/darkblue/sel-hasn" alt="1337 Stats" />
   </a>
 </p>
 
@@ -26,29 +26,33 @@
 
 ### 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,postgres,linux,docker,sqlite,react, html,css,tailwind&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,postgres,linux,docker,sqlite,react,html,css,tailwind&perline=7" alt="My Skills" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sel-hasn&theme=dark" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sel-hasn&theme=dark" alt="GitHub Streak" />
+</p>
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sel-hasn&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sel-hasn&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" />
+</p>
 
 ---
 
-### 🕹️ GitHub Journey (Pacman)
+### 🕹️ GitHub Journey (Snake)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
