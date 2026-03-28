@@ -56,10 +56,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sel-hasn/sel-hasn/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-*Always learning. Always building.*
-
----
-
 </div>
